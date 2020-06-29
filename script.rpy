@@ -6,7 +6,6 @@
 define k = Character("Kayn")
 define y = Character("Yasuo")
 define e = Character("Ezreal")
-define s = Character("Sett")
 define t = Character("Thresh")
 define j = Character("Jhin")
 define m = Character("Me")
