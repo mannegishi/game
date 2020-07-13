@@ -60,8 +60,11 @@ define gui.text_font = "MAXsomsin.ttf"
 ## The font used for character names.
 define gui.name_text_font = "SUNN.otf"
 
-## The font used for out-of-game text.
-define gui.interface_text_font = "Amsterdam Variation_2.ttf"
+## The font used for titles
+define gui.interface_text_font = "SUNN.otf"
+
+##title specific font
+define gui.title_text_font = "Amsterdam Variation_2.ttf"
 
 ## The size of normal dialogue text.
 define gui.text_size = 33
